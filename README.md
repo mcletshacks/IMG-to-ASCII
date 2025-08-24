@@ -1,3 +1,5 @@
+Terry Davis apporved this!
+
 the most complicated way of a img to ascii transformer ig
 
 -> pip install Pillow
